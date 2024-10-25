@@ -1,0 +1,23 @@
+.task_column {
+    width: 33.33%;
+    margin: 0 .5em;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    /* gap: 1rem; */
+    flex-direction: column;
+}
+
+.task_column_heading {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: .1rem;
+    /* gap: 1rem; */
+    align-items: center;
+}
+
+.task_column_icon {
+    width: 30px;
+    margin-right: 5px;
+}

@@ -1,0 +1,29 @@
+.tag {
+    font-size: .7em;
+    font-weight: 500;
+    background: #f9f9f9;
+    /* border: 1px solid #df33e6; */
+    border-radius: 1em;
+    padding: .2em .5em;
+    margin: .1rem .2rem;
+    cursor: pointer;
+}
+
+.tag_icon { 
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Astro {color: var(--astro-color); border: 1px solid var(--astro-color);}
+.Html {color: var(--html-color); border: 1px solid var(--html-color); background: none;}
+.CSS {color: var(--css-color); border: 1px solid var(--css-color);}
+.Javascript {color: var(--js-color); border: 1px solid var(--js-color);}
+.Typescript {color: var(--ts-color); border: 1px solid var(--ts-color);}
+.React {color: var(--react-color); border: 1px solid var(--react-color);}
+.Reactnative {color: var(--reactnative-color); border: 1px solid var(--reactnative-color);}
+.Angular {color: var(--angular-color); border: 1px solid var(--angular-color);}
+.Ionic {color: var(--ionic-color); border: 1px solid var(--ionic-color);}
+.Node {color: var(--node-color); border: 1px solid var(--node-color);}
+.Cs {color: var(--cs-color); border: 1px solid var(--cs-color);}
+.Php {color: var(--php-color); border: 1px solid var(--php-color);}
